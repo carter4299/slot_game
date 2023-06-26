@@ -1,10 +1,10 @@
 # slot_game
 3x5 Slot machine
 ## pygame_slot
-A one file python program using pygame to visualize the slot machine. \
+A one file python program using pygame to visualize the slot machine.
 python -> version_info = 3.11.1.final.0
-## react flask
-needs bonus + payouts 6/26/23 \
+## react-flask
+A react js webapp running with a python flask server \
 react -> client folder | version = 18.2.0 \
 python -> flask_server folder | version = 3.11.4 
 ## sample user database ( SQLite3 )
