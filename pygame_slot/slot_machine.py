@@ -1,3 +1,7 @@
+"""
+    written a while ago with no intention of uploading, please excuse the poor code
+    will update soon
+"""
 import random
 import pygame
 from itertools import groupby
