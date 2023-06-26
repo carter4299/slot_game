@@ -6,7 +6,7 @@ function Reel({ numbers }) {
     from: { transform: 'translateY(0%)' },
     to: { transform: `translateY(-${100 * ((numbers.length - 3) / numbers.length)}%)` },
     config: {
-      duration: numbers.length * 100 // you can tweak this to adjust the speed of the animation
+      duration: numbers.length * 100
     },
     reset: false,
   });
