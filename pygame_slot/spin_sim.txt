@@ -1,0 +1,69 @@
+ace_divisor = 2.25
+joker_divisor = 2.25
+joker_reel_multi = 1.5
+bonus_multi_limit = 5
+----------------------------------------------------------------
+5000 - iterations 
+1,233,460 - spins
+	Money into slot: 9452628.000007316
+	Money Paid Out: 8691905.479896909
+	RTP: 0.9195226427920554
+	avg spins: 246.692
+	avg bet size: 15.109939999999849
+	avg start bal: 30112.28
+	avg end bal: 29941.230240000034
+	avg pl %: -9.04773571963266
+	average pl(per player): -11.353196210150767
+	avg bonus %: = 1.4250968819418546
+ ----------------------------------------------------------------
+10000 - iterations
+2,446,990 - spins
+	Money into slot: 18764244.499896545
+	Money Paid Out: 17271433.444983102
+	RTP: 0.9204438497419029
+	avg spins: 244.699
+	avg bet size: 15.107589999999979
+	avg start bal: 30577.7
+	avg end bal: 30409.65465
+	avg pl %: -8.955615026227159
+	average pl(per player): -10.114338422133239
+	avg bonus %: 1.4275497652217622
+----------------------------------------------------------------
+20000 - iterations
+4,844,380 - spins
+	Money into slot: 36961951.999873675
+	Money Paid Out: 34150188.42081841
+	RTP: 0.9239281632348618
+	avg spins: 242.219
+	avg bet size: 15.002305000000563
+	avg start bal: 30415.455
+	avg end bal: 30256.38584500004
+	avg pl %: -8.607183679043711
+	average pl(per player): -10.303338352081903
+	avg bonus %: 1.4177872090959009
+----------------------------------------------------------------
+40000 - iterations
+9,827,250 - spins
+	Money into slot: 73225246.00148706
+	Money Paid Out: 68073118.66103253
+	RTP: 0.9296400132223536
+	avg spins: 245.68125
+	avg bet size: 14.450840000000351
+	avg start bal: 30107.0375
+	avg end bal: 29959.92800500004
+	avg pl %: -8.035998677286852
+	average pl(per player): -10.098422338232595
+	avg bonus %: 1.4122974382456945
+----------------------------------------------------------------
+50000 - iterations
+12,211,535 - spins
+	Money into slot: 92935930.00235035
+	Money Paid Out: 87233886.89972351
+	RTP: 0.9386454399016331
+	avg spins: 244.2307
+	avg bet size: 14.810855999999282
+	avg start bal: 30425.39
+	avg end bal: 30292.76195200005
+	avg pl %: -7.135456007165271
+	average pl(per player): -10.012072048911559
+	avg bonus %: 1.4118044946847387
