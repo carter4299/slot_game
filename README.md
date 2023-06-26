@@ -5,8 +5,8 @@ A one file python program using pygame to visualize the slot machine. \
 python -> version_info = 3.11.1.final.0
 ## react flask
 react -> client folder | version = 18.2.0 \
-python -> flask_server folder | version = 3.11.4 \
-FROM REACT---------------------------------------------------------------------------------------------------------------------- \
+python -> flask_server folder | version = 3.11.4 \ \
+FROM REACT---------------------------------------------------------------------------------------------------------------------- 
 ### `npm start`
 
 Runs the app in the development mode.\
