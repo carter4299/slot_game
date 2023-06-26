@@ -1,8 +1,8 @@
 # slot_game
 3x5 Slot machine
-##pygame_slot
+## pygame_slot
 A one file python program using pygame to visualize the slot machine.
-##react flask
+## react flask
 FROM REACT----------------------------------------------------------------------------------------------------------------------
 ### `npm start`
 
