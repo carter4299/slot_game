@@ -2,9 +2,9 @@ import sqlite3
 import os
 
 class SQL_Util:
-    def __init__(self, x):
+    def __init__(self, ID):
         self.db_path = os.path.join(r'C:\Users\-----\OneDrive\Desktop\---------------', '------------')
-        self.user_id = x
+        self.user_id = ID
 
     def execute_query(self, query, values=None):
         result = None
@@ -29,8 +29,8 @@ class SQL_Util:
         data = self.execute_query("SELECT balance FROM users WHERE user_id=?", (self.user_id,))
         return data[0] if data else None
 
-    def change_user_balance(self, x):
-        self.execute_query("UPDATE users SET balance = ? WHERE user_id = ?", (x, self.user_id))
+    def change_user_balance(self, val):
+        self.execute_query("UPDATE users SET balance = ? WHERE user_id = ?", (val, self.user_id))
 
     def change_jackpot_val(self, val):
         self.execute_query("UPDATE curr_jackpot SET value = ?", (val,))
